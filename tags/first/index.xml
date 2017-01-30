@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>First on The Caribbean E-Commerce Wiki</title>
+    <link>http://example.org/tags/first/index.xml</link>
+    <description>Recent content in First on The Caribbean E-Commerce Wiki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://example.org/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>First!</title>
+      <link>http://example.org/wiki/first/</link>
+      <pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/wiki/first/</guid>
+      <description>
+
+&lt;h1 id=&#34;first&#34;&gt;First&lt;/h1&gt;
+
+&lt;p&gt;This is the first wiki entry!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
