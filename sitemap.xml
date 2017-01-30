@@ -7,6 +7,10 @@
   </url>
   
   <url>
+    <loc>http://example.org/</loc>
+  </url>
+  
+  <url>
     <loc>http://example.org/tags/first/</loc>
     <lastmod>2017-01-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
